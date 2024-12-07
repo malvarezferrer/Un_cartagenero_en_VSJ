@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explora el Mapa Interactivo de un cartagenero en VSJ</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        h2 { color: #2c3e50; }
+        p { margin-bottom: 1em; }
+        iframe { border: none; }
+    </style>
+</head>
+<body>
+    <h1>Explora el Mapa Interactivo de un cartagenero en VSJ</h1>
+
+    <p>Este mapa interactivo ofrece una visión completa del Viejo San Juan, permitiendo a los usuarios explorar los puntos mas importantes.</p>
+    
+    <h2>Cómo Utilizar el Mapa</h2>
+    <p>Interacciona con el mapa para explorar los puntos de interés. Solo haz clic en los marcadores para obtener más información.</p>
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1j40KnEf6dB7I923Vmsku8d30n0C55i0&usp=sharing" width="600" height="450" loading="lazy"></iframe>
+
+    <h2>Puntos Clave en el Mapa</h2>
+    <p>En el mapa encontrarás ubicaciones de las fortalezas San Cristobal , el Morro y la Perla. Cada marcador proporciona detalles adicionales.</p>
+
+    <h2>¡Comienza a Explorar!</h2>
+    <p>¡Explora el mapa y planifica tu próxima aventura! Si tienes preguntas, deja un comentario o contáctame ig @alvarez.ferrer</p>
+
+    <h2>Comparte el Mapa</h2>
+    <p>Comparte este mapa con tus amigos y familiares para que todos puedan disfrutar de esta herramienta útil.</p>
+</body>
+</html>
